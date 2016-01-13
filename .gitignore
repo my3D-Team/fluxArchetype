@@ -1,0 +1,6 @@
+node_modules
+dist
+.idea
+app/bundle.js
+app/bundle.min.js
+app/bundle.js.map
